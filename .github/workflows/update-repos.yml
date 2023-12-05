@@ -31,8 +31,8 @@ jobs:
 
           REPOS=$(curl -s -H "Authorization: token $TOKEN" $API_URL)
 
-          # Extract and format repository information
-          echo $REPOS | jq -r '[.[] | {name, id, description, stargazers_count, forks_count}]' > repos.json
+          # Extract and format repository information, sort by stargazers_count in descending order
+          echo $REPOS | jq -r 'sort_by(.stargazers_count) | reverse | [.[] | {name, id, description, stargazers_count, forks_count}]' > repos.json
           
       - name: Commit changes
         run: |
@@ -44,5 +44,3 @@ jobs:
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-          
