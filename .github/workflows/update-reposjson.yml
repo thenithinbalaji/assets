@@ -1,4 +1,4 @@
-name: Update Repositories
+name: Update Repositories Info
 
 on:
   schedule:
