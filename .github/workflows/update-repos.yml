@@ -1,37 +1,28 @@
 name: Update Repositories
-
 on:
   schedule:
     - cron: '0 0 * * *'  # Run every day at midnight
   workflow_dispatch:  # Allows manual triggering
-
 jobs:
   update-repos:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '14'
-
       - name: Install dependencies
         run: |
           npm install axios
           sudo apt-get install jq
-
       - name: Update Repositories
         run: |
           TOKEN=${{ secrets.GH_TOKEN }}
           OWNER=thenithinbalaji
           API_URL="https://api.github.com/users/$OWNER/repos?per_page=100"
-
-
           REPOS=$(curl -s -H "Authorization: token $TOKEN" $API_URL)
-
           # Extract and format repository information, sort by stargazers_count in descending order
           echo $REPOS | jq -r 'sort_by(.stargazers_count) | reverse | [.[] | {name, id, description, stargazers_count, forks_count}]' > repos.json
           
