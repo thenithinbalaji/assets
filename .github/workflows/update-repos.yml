@@ -27,7 +27,8 @@ jobs:
         run: |
           TOKEN=${{ secrets.GH_TOKEN }}
           OWNER=thenithinbalaji
-          API_URL="https://api.github.com/users/$OWNER/repos"
+          API_URL="https://api.github.com/users/$OWNER/repos?per_page=100"
+
 
           REPOS=$(curl -s -H "Authorization: token $TOKEN" $API_URL)
 
