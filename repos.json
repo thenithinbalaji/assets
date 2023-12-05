@@ -1,12 +1,5 @@
 [
   {
-    "name": "YES-or-NO",
-    "id": 507690654,
-    "description": "A simple website with endless YES or NO questions made with HTML, CSS & Vanilla JS",
-    "stargazers_count": 15,
-    "forks_count": 3
-  },
-  {
     "name": "September-Assistant",
     "id": 460325970,
     "description": "September - an open source voice assistant for Windows. Uses Tkinter, Google Speech Recognition and Wolfram Alpha Engine. ",
