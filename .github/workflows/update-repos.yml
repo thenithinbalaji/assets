@@ -3,6 +3,7 @@ name: Update Repositories
 on:
   schedule:
     - cron: '0 0 * * *'  # Run every day at midnight
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
   update-repos:
@@ -18,7 +19,9 @@ jobs:
           node-version: '14'
 
       - name: Install dependencies
-        run: npm install axios
+        run: |
+          npm install axios
+          sudo apt-get install jq
 
       - name: Update Repositories
         run: |
