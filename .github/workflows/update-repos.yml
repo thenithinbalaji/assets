@@ -38,7 +38,7 @@ jobs:
       - name: Commit changes
         run: |
           git config --global user.email "no-reply@github.com"
-          git config --global user.name "GitHub Actions Bot"
+          git config --global user.name "GitHub Actions"
           git add repos.json
           git commit -m "Update repos.json"
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
