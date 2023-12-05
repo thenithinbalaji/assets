@@ -29,18 +29,13 @@ jobs:
           OWNER=thenithinbalaji
           API_URL="https://api.github.com/users/$OWNER/repos?per_page=100"
 
+
           REPOS=$(curl -s -H "Authorization: token $TOKEN" $API_URL)
 
           # Extract and format repository information, sort by stargazers_count in descending order
           echo $REPOS | jq -r 'sort_by(.stargazers_count) | reverse | [.[] | {name, id, description, stargazers_count, forks_count}]' > repos.json
-
-      - name: Check for changes
-        run: |
-          git diff --exit-code || echo "There are changes to commit"
-        id: check_changes
-
+          
       - name: Commit changes
-        if: steps.check_changes.outputs.code == '1'
         run: |
           git config --global user.email "no-reply@github.com"
           git config --global user.name "GitHub Actions"
