@@ -40,8 +40,7 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --global user.name "GitHub Actions Bot"
           git add repos.json
-          git commit -m "Update repos.json
-          Co-authored-by: Linus Torvalds <torvalds@linux-foundation.org>"
+          git commit -m "Update repos.json"
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git push
         env:
