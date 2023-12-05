@@ -1,5 +1,19 @@
 [
   {
+    "name": "YES-or-NO",
+    "id": 507690654,
+    "description": "A simple website with endless YES or NO questions made with HTML, CSS & Vanilla JS",
+    "stargazers_count": 15,
+    "forks_count": 3
+  },
+  {
+    "name": "September-Assistant",
+    "id": 460325970,
+    "description": "September - an open source voice assistant for Windows. Uses Tkinter, Google Speech Recognition and Wolfram Alpha Engine. ",
+    "stargazers_count": 13,
+    "forks_count": 1
+  },
+  {
     "name": "PadiDa-Extension",
     "id": 516979820,
     "description": "A chrome extension made with JS to help you focus on your studies by saying \"Dei Parama, Padi Da\", a famous Tamil Meme Dialogue. ",
@@ -7,11 +21,25 @@
     "forks_count": 0
   },
   {
+    "name": "Text-Encrypter",
+    "id": 311067826,
+    "description": "A command line based text-file encrypter-decrypter made with C++",
+    "stargazers_count": 9,
+    "forks_count": 4
+  },
+  {
     "name": "5Personalities",
     "id": 579652131,
     "description": "Personality Prediction based on Big 5 Model. Uses Multinomial Logistic Regression for Classification and Tailwind, Flask for web interface. ",
     "stargazers_count": 9,
     "forks_count": 3
+  },
+  {
+    "name": "pyrandtoys",
+    "id": 467139901,
+    "description": "A python module for generating the result of probability-based toys. Installable on any system with pip command. ",
+    "stargazers_count": 8,
+    "forks_count": 2
   },
   {
     "name": "Bus-Tracker",
@@ -39,6 +67,13 @@
     "id": 501911862,
     "description": "Scheduling Data Structures Implementation. Website made with ❤️ using HTML, CSS & Pyscript. ",
     "stargazers_count": 4,
+    "forks_count": 0
+  },
+  {
+    "name": "QC-For-Beginners",
+    "id": 509028579,
+    "description": "My learning journal of Quantum Computing Basics with notes, reference videos and jupyter notebooks",
+    "stargazers_count": 3,
     "forks_count": 0
   },
   {
@@ -105,6 +140,27 @@
     "forks_count": 1
   },
   {
+    "name": "Simple-React-App",
+    "id": 576441084,
+    "description": "A simple React App deployed on Gh pages",
+    "stargazers_count": 1,
+    "forks_count": 0
+  },
+  {
+    "name": "School-Manager",
+    "id": 612596489,
+    "description": "Poshan - Track the mess menu, health & attendance of students with parent, student, school and admin dashboards. Made with Flask, Tailwind & MongoDB",
+    "stargazers_count": 1,
+    "forks_count": 0
+  },
+  {
+    "name": "Repolist",
+    "id": 634508611,
+    "description": "Web App to fetch GitHub public and private repo data using GitHub OAuth and Python",
+    "stargazers_count": 1,
+    "forks_count": 0
+  },
+  {
     "name": "Meme-Generator",
     "id": 606681755,
     "description": "Meme Generator made with React + Tailwind CSS. Insanely fast, mobile-friendly meme generator.",
@@ -137,6 +193,20 @@
     "id": 600185034,
     "description": "A simple Airbnb clone made with React + Tailwind CSS",
     "stargazers_count": 1,
+    "forks_count": 0
+  },
+  {
+    "name": "thenithinbalaji",
+    "id": 463447886,
+    "description": "Profile README Repo",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "pyscript-collective",
+    "id": 506638730,
+    "description": "Placeholder repository for community contributions to pyscript",
+    "stargazers_count": 0,
     "forks_count": 0
   },
   {
