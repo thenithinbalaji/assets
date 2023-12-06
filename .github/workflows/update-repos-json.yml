@@ -29,26 +29,19 @@ jobs:
           OWNER=thenithinbalaji
           API_URL="https://api.github.com/users/$OWNER/repos?per_page=100"
 
+
           REPOS=$(curl -s -H "Authorization: token $TOKEN" $API_URL)
 
           # Extract and format repository information, sort by stargazers_count in descending order
-          NEW_REPOS=$(echo $REPOS | jq -c 'sort_by(.stargazers_count) | reverse | [.[] | {name, id, description, html_url, stargazers_count, forks_count}]')
-
-          # Check if there are any changes
-          if [[ -n "$(git diff --exit-code -- repos.json)" ]]; then
-            echo "$NEW_REPOS" > repos.json
-          else
-            echo "No changes to repos.json. Exiting..."
-            exit 0
-          fi
+          echo $REPOS | jq -r 'sort_by(.stargazers_count) | reverse | [.[] | {name, id, description, html_url, stargazers_count, forks_count}]' > repos.json
           
-      - name: Commit and push changes
+      - name: Commit changes
         run: |
           git config --global user.email "no-reply@github.com"
           git config --global user.name "GitHub Actions"
           git add repos.json
-          git diff --cached --exit-code || git commit -m "Update repos.json"
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git diff --cached --exit-code || (git commit -m "Update repos.json" && git push)
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
