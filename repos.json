@@ -3,6 +3,7 @@
     "name": "YES-or-NO",
     "id": 507690654,
     "description": "A simple website with endless YES or NO questions made with HTML, CSS & Vanilla JS",
+    "html_url": "https://github.com/thenithinbalaji/YES-or-NO",
     "stargazers_count": 15,
     "forks_count": 3
   },
@@ -10,6 +11,7 @@
     "name": "September-Assistant",
     "id": 460325970,
     "description": "September - an open source voice assistant for Windows. Uses Tkinter, Google Speech Recognition and Wolfram Alpha Engine. ",
+    "html_url": "https://github.com/thenithinbalaji/September-Assistant",
     "stargazers_count": 13,
     "forks_count": 1
   },
@@ -17,6 +19,7 @@
     "name": "PadiDa-Extension",
     "id": 516979820,
     "description": "A chrome extension made with JS to help you focus on your studies by saying \"Dei Parama, Padi Da\", a famous Tamil Meme Dialogue. ",
+    "html_url": "https://github.com/thenithinbalaji/PadiDa-Extension",
     "stargazers_count": 10,
     "forks_count": 0
   },
@@ -24,6 +27,7 @@
     "name": "Text-Encrypter",
     "id": 311067826,
     "description": "A command line based text-file encrypter-decrypter made with C++",
+    "html_url": "https://github.com/thenithinbalaji/Text-Encrypter",
     "stargazers_count": 9,
     "forks_count": 4
   },
@@ -31,6 +35,7 @@
     "name": "5Personalities",
     "id": 579652131,
     "description": "Personality Prediction based on Big 5 Model. Uses Multinomial Logistic Regression for Classification and Tailwind, Flask for web interface. ",
+    "html_url": "https://github.com/thenithinbalaji/5Personalities",
     "stargazers_count": 9,
     "forks_count": 3
   },
@@ -38,6 +43,7 @@
     "name": "pyrandtoys",
     "id": 467139901,
     "description": "A python module for generating the result of probability-based toys. Installable on any system with pip command. ",
+    "html_url": "https://github.com/thenithinbalaji/pyrandtoys",
     "stargazers_count": 8,
     "forks_count": 2
   },
@@ -45,6 +51,7 @@
     "name": "Bus-Tracker",
     "id": 568649180,
     "description": "College Bus Tracker Web Application for SSN College of Engineering made with Flask",
+    "html_url": "https://github.com/thenithinbalaji/Bus-Tracker",
     "stargazers_count": 8,
     "forks_count": 0
   },
@@ -52,6 +59,7 @@
     "name": "PM-Poshan",
     "id": 528703340,
     "description": "Automated Reporting & Management System for Mid-Day Meal Scheme - PM Poshan. A web app built using Flask",
+    "html_url": "https://github.com/thenithinbalaji/PM-Poshan",
     "stargazers_count": 5,
     "forks_count": 0
   },
@@ -59,6 +67,7 @@
     "name": "Doge-Memer",
     "id": 542761919,
     "description": "Doge Memer Discord Bot - A bot to increase your server engagement with • Memes • Economy • Roasts • Actions • Mini-Games",
+    "html_url": "https://github.com/thenithinbalaji/Doge-Memer",
     "stargazers_count": 5,
     "forks_count": 0
   },
@@ -66,6 +75,7 @@
     "name": "Burger-Machine",
     "id": 501911862,
     "description": "Scheduling Data Structures Implementation. Website made with ❤️ using HTML, CSS & Pyscript. ",
+    "html_url": "https://github.com/thenithinbalaji/Burger-Machine",
     "stargazers_count": 4,
     "forks_count": 0
   },
@@ -73,6 +83,7 @@
     "name": "QC-For-Beginners",
     "id": 509028579,
     "description": "My learning journal of Quantum Computing Basics with notes, reference videos and jupyter notebooks",
+    "html_url": "https://github.com/thenithinbalaji/QC-For-Beginners",
     "stargazers_count": 3,
     "forks_count": 0
   },
@@ -80,6 +91,7 @@
     "name": "Krypto-Cry",
     "id": 545139568,
     "description": "Krypto Cry Discord Bot - Your favorite cryptocurrency can now be put on the watchlist!",
+    "html_url": "https://github.com/thenithinbalaji/Krypto-Cry",
     "stargazers_count": 3,
     "forks_count": 0
   },
@@ -87,6 +99,7 @@
     "name": "Doge-Memer-Website",
     "id": 549780781,
     "description": "Website for Doge Memer Discord Bot made using TailwindCSS",
+    "html_url": "https://github.com/thenithinbalaji/Doge-Memer-Website",
     "stargazers_count": 3,
     "forks_count": 1
   },
@@ -94,6 +107,7 @@
     "name": "BookMyShowPC",
     "id": 445436510,
     "description": "Desktop application for Movie Ticket Reservation. Uses Tkinter for GUI and Oracle SQL Plus as database. ",
+    "html_url": "https://github.com/thenithinbalaji/BookMyShowPC",
     "stargazers_count": 3,
     "forks_count": 0
   },
@@ -101,6 +115,7 @@
     "name": "OS-Lab",
     "id": 577792244,
     "description": "OS Lab - Shell Programs, Unix Commands, System Calls, Memory Management",
+    "html_url": "https://github.com/thenithinbalaji/OS-Lab",
     "stargazers_count": 2,
     "forks_count": 0
   },
@@ -108,6 +123,7 @@
     "name": "Jobify",
     "id": 634547118,
     "description": "Find your dream job now. Host Jobs and Find Jobs for free. Made with ❤️ for Nbyula - https://nbyula.com/",
+    "html_url": "https://github.com/thenithinbalaji/Jobify",
     "stargazers_count": 2,
     "forks_count": 1
   },
@@ -115,6 +131,7 @@
     "name": "Greeting-Message",
     "id": 309945311,
     "description": "Android application for greeting people. Type, screenshot and share your wishes. Made using Android Studio.",
+    "html_url": "https://github.com/thenithinbalaji/Greeting-Message",
     "stargazers_count": 2,
     "forks_count": 0
   },
@@ -122,6 +139,7 @@
     "name": "GitHub-Feed-Blocker",
     "id": 590556130,
     "description": "A chrome extension to clean your GitHub Feed",
+    "html_url": "https://github.com/thenithinbalaji/GitHub-Feed-Blocker",
     "stargazers_count": 2,
     "forks_count": 0
   },
@@ -129,6 +147,7 @@
     "name": "Favalist",
     "id": 643641712,
     "description": "Favalist is a social platform where you can share your favorite things with the world. You can discover new things and meet new people with similar tastes.",
+    "html_url": "https://github.com/thenithinbalaji/Favalist",
     "stargazers_count": 2,
     "forks_count": 0
   },
@@ -136,6 +155,7 @@
     "name": "Diamond-Miner",
     "id": 379629641,
     "description": "A looooooooooooooooooooooong website with endless diamonds to collect. Rich man?",
+    "html_url": "https://github.com/thenithinbalaji/Diamond-Miner",
     "stargazers_count": 2,
     "forks_count": 1
   },
@@ -143,6 +163,7 @@
     "name": "Simple-React-App",
     "id": 576441084,
     "description": "A simple React App deployed on Gh pages",
+    "html_url": "https://github.com/thenithinbalaji/Simple-React-App",
     "stargazers_count": 1,
     "forks_count": 0
   },
@@ -150,6 +171,7 @@
     "name": "School-Manager",
     "id": 612596489,
     "description": "Poshan - Track the mess menu, health & attendance of students with parent, student, school and admin dashboards. Made with Flask, Tailwind & MongoDB",
+    "html_url": "https://github.com/thenithinbalaji/School-Manager",
     "stargazers_count": 1,
     "forks_count": 0
   },
@@ -157,6 +179,7 @@
     "name": "Repolist",
     "id": 634508611,
     "description": "Web App to fetch GitHub public and private repo data using GitHub OAuth and Python",
+    "html_url": "https://github.com/thenithinbalaji/Repolist",
     "stargazers_count": 1,
     "forks_count": 0
   },
@@ -164,6 +187,7 @@
     "name": "Meme-Generator",
     "id": 606681755,
     "description": "Meme Generator made with React + Tailwind CSS. Insanely fast, mobile-friendly meme generator.",
+    "html_url": "https://github.com/thenithinbalaji/Meme-Generator",
     "stargazers_count": 1,
     "forks_count": 0
   },
@@ -171,6 +195,7 @@
     "name": "GG-Bot",
     "id": 469453955,
     "description": "GenuineGenie Revamp Beta - Open Source Discord Bot made with Node.js",
+    "html_url": "https://github.com/thenithinbalaji/GG-Bot",
     "stargazers_count": 1,
     "forks_count": 0
   },
@@ -178,6 +203,7 @@
     "name": "Flask-ToDoApp",
     "id": 581977097,
     "description": "To Do App made with TailwindCSS, Flask and SQLite for Koyo",
+    "html_url": "https://github.com/thenithinbalaji/Flask-ToDoApp",
     "stargazers_count": 1,
     "forks_count": 0
   },
@@ -185,6 +211,7 @@
     "name": "Doge-Memer-Template",
     "id": 373582499,
     "description": "Template for making your Discord.py Bot. Contains the boilerplate code for hosting and setting up a python bot on replit.com",
+    "html_url": "https://github.com/thenithinbalaji/Doge-Memer-Template",
     "stargazers_count": 1,
     "forks_count": 0
   },
@@ -192,6 +219,7 @@
     "name": "Clonebnb",
     "id": 600185034,
     "description": "A simple Airbnb clone made with React + Tailwind CSS",
+    "html_url": "https://github.com/thenithinbalaji/Clonebnb",
     "stargazers_count": 1,
     "forks_count": 0
   },
@@ -199,6 +227,7 @@
     "name": "thenithinbalaji",
     "id": 463447886,
     "description": "Profile README Repo",
+    "html_url": "https://github.com/thenithinbalaji/thenithinbalaji",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -206,6 +235,7 @@
     "name": "pyscript-collective",
     "id": 506638730,
     "description": "Placeholder repository for community contributions to pyscript",
+    "html_url": "https://github.com/thenithinbalaji/pyscript-collective",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -213,6 +243,7 @@
     "name": "practicesamples",
     "id": 487607795,
     "description": " 2c-cfsa-it-22 - Full Stack Web Development Course - SSN ",
+    "html_url": "https://github.com/thenithinbalaji/practicesamples",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -220,6 +251,7 @@
     "name": "Networks-Lab",
     "id": 574363237,
     "description": "UIT1503 - Networks Lab - TCP Socket, UDP Socket & Network Simulator ",
+    "html_url": "https://github.com/thenithinbalaji/Networks-Lab",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -227,6 +259,7 @@
     "name": "memory-game-ip",
     "id": 632551487,
     "description": "cute memory game website ❤️",
+    "html_url": "https://github.com/thenithinbalaji/memory-game-ip",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -234,6 +267,7 @@
     "name": "MAD-Lab",
     "id": 722402567,
     "description": "UIT1711 - Mobile Application Development Lab",
+    "html_url": "https://github.com/thenithinbalaji/MAD-Lab",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -241,13 +275,23 @@
     "name": "invente-next",
     "id": 571141019,
     "description": "Website for SSN Invente 2022",
+    "html_url": "https://github.com/thenithinbalaji/invente-next",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "icccsp24-build",
+    "id": 674515952,
+    "description": "Build Folder of ICCCSP 2024 https://github.com/thenithinbalaji/icccsp24 repository ",
+    "html_url": "https://github.com/thenithinbalaji/icccsp24-build",
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
     "name": "icccsp24",
     "id": 665780630,
-    "description": "Website for ICCCSP 2024 Conference",
+    "description": "Website for ICCCSP 2024 Conference ",
+    "html_url": "https://github.com/thenithinbalaji/icccsp24",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -255,6 +299,7 @@
     "name": "File-Encrypter",
     "id": 577369631,
     "description": "A command line based file encrypter-decrypter made with Python and Rijndael Algorithm",
+    "html_url": "https://github.com/thenithinbalaji/File-Encrypter",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -262,6 +307,7 @@
     "name": "assets",
     "id": 721785682,
     "description": "coz cloud storage services are for losers",
+    "html_url": "https://github.com/thenithinbalaji/assets",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -269,6 +315,7 @@
     "name": "acmw-v1",
     "id": 558012708,
     "description": "rewriting shitty graphcms website",
+    "html_url": "https://github.com/thenithinbalaji/acmw-v1",
     "stargazers_count": 0,
     "forks_count": 1
   },
@@ -276,6 +323,7 @@
     "name": "2c-cfsa-it-22-FullStack",
     "id": 536721742,
     "description": "2c-cfsa-it-22 - Full Stack Web Development Course - SSN",
+    "html_url": "https://github.com/thenithinbalaji/2c-cfsa-it-22-FullStack",
     "stargazers_count": 0,
     "forks_count": 0
   }
