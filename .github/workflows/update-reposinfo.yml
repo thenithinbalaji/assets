@@ -41,7 +41,7 @@ jobs:
           git config --global user.name "GitHub Actions"
           git add repos.json
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git diff --cached --exit-code || (git commit -m "automatic repo info update" && git push)
+          git diff --cached --exit-code || (git commit -m "automatic repos info json update" && git push)
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
