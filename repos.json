@@ -56,19 +56,19 @@
     "forks_count": 0
   },
   {
-    "name": "PM-Poshan",
-    "id": 528703340,
-    "description": "Automated Reporting & Management System for Mid-Day Meal Scheme - PM Poshan. A web app built using Flask",
-    "html_url": "https://github.com/thenithinbalaji/PM-Poshan",
-    "stargazers_count": 5,
-    "forks_count": 0
-  },
-  {
     "name": "Doge-Memer",
     "id": 542761919,
     "description": "Doge Memer Discord Bot - A bot to increase your server engagement with • Memes • Economy • Roasts • Actions • Mini-Games",
     "html_url": "https://github.com/thenithinbalaji/Doge-Memer",
     "stargazers_count": 5,
+    "forks_count": 0
+  },
+  {
+    "name": "PM-Poshan",
+    "id": 528703340,
+    "description": "Automated Reporting & Management System for Mid-Day Meal Scheme - PM Poshan. A web app built using Flask",
+    "html_url": "https://github.com/thenithinbalaji/PM-Poshan",
+    "stargazers_count": 4,
     "forks_count": 0
   },
   {
