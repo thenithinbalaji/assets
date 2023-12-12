@@ -33,7 +33,7 @@ jobs:
           REPOS=$(curl -s -H "Authorization: token $TOKEN" $API_URL)
 
           # Extract and format repository information, sort by stargazers_count in descending order
-          echo $REPOS | jq -r 'sort_by(.stargazers_count) | reverse | [.[] | {name, id, description, html_url, stargazers_count, forks_count}]' > repos.json
+          echo $REPOS | jq -r 'sort_by(.stargazers_count) | reverse | [.[] | {id, name, description, created_at, language, html_url, homepage, stargazers_count, forks_count}]' > repos.json
           
       - name: Commit changes
         run: |
