@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "github_id": 542761919,
+            "name": "Doge Memer",
+            "description": "A discord chat bot that can send memes, and jokes and interact with users. Being used by more than 3000 discord groups/servers as of 2023.",
+            "stack": "py,discord,bots,mongodb,git,replit",
+            "link_1_name": "Code",
+            "link_2_name": "Live Site",
+            "link1": "https://github.com/thenithinbalaji/Doge-Memer",
+            "link2": "https://thenithinbalaji.github.io/Doge-Memer-Website/"
+        },
+        {
+            "github_id": 460325970,
+            "name": "September AI",
+            "description": "An open source voice assistant powered by Python Tkinter, Google Speech Recognition and Wolfram Alpha Engine. The application can be installed on Windows devices.",
+            "stack": "py,git,github",
+            "link_1_name": "Code",
+            "link_2_name": "Download",
+            "link1": "https://github.com/thenithinbalaji/September-Assistant",
+            "link2": "https://thenithinbalaji.github.io/September-Assistant/"
+        },
+        {
+            "github_id": 467139901,
+            "name": "Py rand toys",
+            "description": "A python module for generating the result of probability-based toys. Installable on any system with pip command. Compatible with both Python 2 and 3.",
+            "stack": "py,git,github",
+            "link_1_name": "Code",
+            "link_2_name": "PyPI Package",
+            "link1": "https://github.com/thenithinbalaji/pyrandtoys",
+            "link2": "https://pypi.org/project/pyrandtoys/"
+        },
+        {
+            "github_id": 643641712,
+            "name": "Favalist",
+            "description": "Favalist is a social platform where you can share your favorite things with the world. You can discover new things and meet new people with similar tastes.",
+            "stack": "html,tailwind,js,angular,express,nodejs,mongodb",
+            "link_1_name": "Code",
+            "link_2_name": null,
+            "link1": "https://github.com/thenithinbalaji/Favalist",
+            "link2": null
+        }
+    ]
+}
