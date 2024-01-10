@@ -220,6 +220,17 @@
     "forks_count": 0
   },
   {
+    "id": 720478299,
+    "name": "thenithinbalaji.github.io",
+    "description": "GitHub Pages Portfolio Website",
+    "created_at": "2023-11-18T16:00:33Z",
+    "language": "HTML",
+    "html_url": "https://github.com/thenithinbalaji/thenithinbalaji.github.io",
+    "homepage": "https://thenithinbalaji.github.io/",
+    "stargazers_count": 1,
+    "forks_count": 0
+  },
+  {
     "id": 698756076,
     "name": "Task-Master",
     "description": "TaskMaster is a powerful and user-friendly to-do list app built in React and Go",
