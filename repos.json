@@ -233,7 +233,7 @@
   {
     "id": 698756076,
     "name": "Task-Master",
-    "description": "TaskMaster is a powerful and user-friendly to-do list app built in React and Go",
+    "description": "TaskMaster is an organization project and todo management application built in React and Go",
     "created_at": "2023-09-30T21:39:09Z",
     "language": "JavaScript",
     "html_url": "https://github.com/thenithinbalaji/Task-Master",
