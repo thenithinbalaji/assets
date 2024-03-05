@@ -330,6 +330,17 @@
     "forks_count": 0
   },
   {
+    "id": 766226857,
+    "name": "CosmoQuest",
+    "description": "CosmoQuest - Space Tourism Website",
+    "created_at": "2024-03-02T17:21:31Z",
+    "language": "HTML",
+    "html_url": "https://github.com/thenithinbalaji/CosmoQuest",
+    "homepage": "https://cosmoquest.onrender.com/",
+    "stargazers_count": 1,
+    "forks_count": 0
+  },
+  {
     "id": 600185034,
     "name": "Clonebnb",
     "description": "A simple Airbnb clone made with React + Tailwind CSS",
@@ -469,17 +480,6 @@
     "language": "Python",
     "html_url": "https://github.com/thenithinbalaji/File-Encrypter",
     "homepage": "",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "id": 766226857,
-    "name": "CosmoQuest",
-    "description": "CosmoQuest - Space Tourism Website",
-    "created_at": "2024-03-02T17:21:31Z",
-    "language": "HTML",
-    "html_url": "https://github.com/thenithinbalaji/CosmoQuest",
-    "homepage": "https://cosmoquest.onrender.com/",
     "stargazers_count": 0,
     "forks_count": 0
   },
