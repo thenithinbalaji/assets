@@ -453,11 +453,11 @@
   {
     "id": 674515952,
     "name": "icccsp24-build",
-    "description": "Build Folder of ICCCSP 2024 https://github.com/thenithinbalaji/icccsp24 repository ",
+    "description": "Build Folder of ICCCSP Site (2023-2024)",
     "created_at": "2023-08-04T06:16:45Z",
     "language": "HTML",
     "html_url": "https://github.com/thenithinbalaji/icccsp24-build",
-    "homepage": "http://icccsp.com/",
+    "homepage": "https://icccsp24.vercel.app/",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -501,7 +501,7 @@
     "created_at": "2022-10-26T18:22:26Z",
     "language": "HTML",
     "html_url": "https://github.com/thenithinbalaji/acmw-build",
-    "homepage": "https://ssnw.acm.org/",
+    "homepage": "https://ssn-acm-w.vercel.app/",
     "stargazers_count": 0,
     "forks_count": 1
   },
