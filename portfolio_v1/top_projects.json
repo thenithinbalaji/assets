@@ -3,7 +3,7 @@
         {
             "github_id": 542761919,
             "name": "Doge Memer",
-            "description": "A Discord chat bot that can send memes, and jokes and interact with users. Being used by more than 3000 discord communities as of 2023.",
+            "description": "A Discord chat bot that can send memes, jokes and interact with users. Being used by more than 3000 discord communities as of 2023.",
             "stack": "py,discord,bots,mongodb,git,replit",
             "link_1_name": "Code",
             "link_2_name": "Bot Website",
@@ -32,7 +32,7 @@
         },
         {
             "github_id": 507690654,
-            "name": "Yes/No Website",
+            "name": "Yes or No",
             "description": "A simple website with endless YES or NO questions. Know what the world is thinking. Every click unveils a new layer of insight into the intricate web of human perspectives.",
             "stack": "html,css,js",
             "link_1_name": "Code",
@@ -43,7 +43,7 @@
         {
             "github_id": 467139901,
             "name": "Py rand toys",
-            "description": "A python module for generating the result of probability-based toys. Installable on any system with pip command. Compatible with both Python 2 and 3. Try `pip install pyrandtoys` on your terminal.",
+            "description": "A python module for generating the result of probability-based toys. Installable on any system with pip command. Try `pip install pyrandtoys` on your terminal.",
             "stack": "py,git",
             "link_1_name": "Code",
             "link_2_name": "PyPI Package",
