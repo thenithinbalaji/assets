@@ -22,6 +22,17 @@
     "forks_count": 1
   },
   {
+    "id": 579652131,
+    "name": "5Personalities",
+    "description": "Personality Prediction based on Big 5 Model. Uses Multinomial Logistic Regression for Classification and Tailwind, Flask for web interface. ",
+    "created_at": "2022-12-18T12:27:24Z",
+    "language": "HTML",
+    "html_url": "https://github.com/thenithinbalaji/5Personalities",
+    "homepage": "https://fivepersonalities.onrender.com/",
+    "stargazers_count": 11,
+    "forks_count": 5
+  },
+  {
     "id": 311067826,
     "name": "Text-Encrypter",
     "description": "A command line based text-file encrypter-decrypter made with C++",
@@ -44,17 +55,6 @@
     "forks_count": 0
   },
   {
-    "id": 579652131,
-    "name": "5Personalities",
-    "description": "Personality Prediction based on Big 5 Model. Uses Multinomial Logistic Regression for Classification and Tailwind, Flask for web interface. ",
-    "created_at": "2022-12-18T12:27:24Z",
-    "language": "HTML",
-    "html_url": "https://github.com/thenithinbalaji/5Personalities",
-    "homepage": "https://fivepersonalities.onrender.com/",
-    "stargazers_count": 10,
-    "forks_count": 5
-  },
-  {
     "id": 467139901,
     "name": "pyrandtoys",
     "description": "A python module for generating the result of probability-based toys. Installable on any system with pip command. ",
@@ -73,7 +73,7 @@
     "language": "HTML",
     "html_url": "https://github.com/thenithinbalaji/Bus-Tracker",
     "homepage": "",
-    "stargazers_count": 6,
+    "stargazers_count": 7,
     "forks_count": 0
   },
   {
