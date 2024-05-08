@@ -46,7 +46,7 @@
   {
     "id": 516979820,
     "name": "PadiDa-Extension",
-    "description": "A chrome extension made with JS to help you focus on your studies by saying \"Dei Parama, Padi Da\", a famous Tamil Meme Dialogue. ",
+    "description": "A chrome extension to help you focus on your studies by saying \"Dei Parama, Padi Da\", a famous Tamil Meme, when you visit distracting sites.",
     "created_at": "2022-07-23T06:41:23Z",
     "language": "JavaScript",
     "html_url": "https://github.com/thenithinbalaji/PadiDa-Extension",
